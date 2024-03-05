@@ -36,7 +36,7 @@ while [[ $USER_GUESS -ne $SECRET_NUMBER ]]; do
   if [[ ! $USER_GUESS =~ ^[0-9]+$ ]]; then
     echo -e "\nThat is not an integer, guess again:"
   else
-    # Jika input angka yang lebih kecil atau lebih besar, cetak perintah input angka lain
+    # Jika input angka lebih kecil atau lebih besar, cetak perintah input angka lain
     if [[ $USER_GUESS -lt $SECRET_NUMBER ]]; then
       echo "It's higher than that, guess again:"
     else
