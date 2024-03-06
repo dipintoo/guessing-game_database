@@ -1,4 +1,4 @@
-![Logo GitHub](https://tse1.mm.bing.net/th/id/OIG2.YLFNP5cZs2Zz4ylpjlsu?pid=ImgGn)
+![Cover]()
 
 # Game Tebak Angka Rahasia
 
