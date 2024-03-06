@@ -27,3 +27,6 @@ Membuat tabel `games` dan `players` serta membuat relasinya.
 6. Data riwayat (username, frekuensi bermain, dan jumlah usaha menebak terbaik) akan disimpan di dalam database.
 7. Game akan memberikan selamat atas keberhasilan pemain menebak angka rahasianya 🏆.
 8. Jika suatu saat ingin bermain lagi, pemain sudah dikenali oleh database dan menampilkan riwayat terbaiknya.
+
+
+[**_<< Previous Project - Aplikasi Booking Salon_**](https://github.com/dipintoo/universe_database)
