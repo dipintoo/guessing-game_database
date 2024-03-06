@@ -1,4 +1,4 @@
-![Logo GitHub](https://copilot.microsoft.com/images/create/game-tebak-angka-rahasia-dengan-tema-warna-biru-la/1-65e7f9fe467c44398cdb3f69f86a6cae?id=td9hOjbr2ZxaZUxWH8hfbw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.YLFNP5cZs2Zz4ylpjlsu&FORM=SYDBIC)
+![Logo GitHub](https://tse1.mm.bing.net/th/id/OIG2.YLFNP5cZs2Zz4ylpjlsu?pid=ImgGn)
 
 # Game Tebak Angka Rahasia
 
