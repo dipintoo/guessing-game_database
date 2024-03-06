@@ -10,7 +10,7 @@ Kita akan membuat game tebak angka antara 1 hingga 1000. Logic game ditulis dala
    - Pemain diminta untuk menginput tebakan berupa angka antara 1 sampai 1000.
    - Jika tebakannya salah, game akan terus berlangsung. Jumlah usaha menebak akan dihitung dan terus bertambah seiring tebakannya belum benar.
    - Game akan memberikan pesan kesalahan jika tebakan pemain masih salah dan memintanya untuk menginput angka lain sampai berhasil.
-   - Yes, pemain berhasil menebak angkanya! Perhitungan usaha menebak selesai.
-6. Data riwayat (username, jumlah permainan yang dimainkan, dan jumlah usaha menebak sampai benar) akan disimpan di dalam database.
+   - Yes, pemain berhasil menebak angkanya! Perhitungan usaha menebak angka pemain selesai.
+6. Data riwayat (username, frekuensi bermain, dan jumlah usaha menebak) akan disimpan di dalam database.
 7. Game akan memberikan selamat atas keberhasilan pemain menebak angka rahasianya 🏆.
 8. Jika suatu saat pemain ingin mencoba bermain lagi, maka dia sudah dikenali oleh database dan menampilkan riwayat permainan sebelumnya.
