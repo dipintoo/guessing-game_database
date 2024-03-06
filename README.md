@@ -29,4 +29,4 @@ Membuat tabel `games` dan `players` serta membuat relasinya.
 8. Jika suatu saat ingin bermain lagi, pemain sudah dikenali oleh database dan menampilkan riwayat terbaiknya.
 
 
-[**_<< Previous Project - Aplikasi Booking Salon_**](https://github.com/dipintoo/universe_database)
+[**_<< Previous Project - Universe Database_**](https://github.com/dipintoo/universe_database)
