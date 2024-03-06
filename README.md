@@ -4,7 +4,7 @@ Kita akan membuat game tebak angka rahasia antara 1 hingga 1000. Logic game ditu
 
 ## Algoritma
 
-1. Game meminta pemain untuk input _username_.
+1. Game meminta pemain untuk menginput _username_.
 2. Game akan mengecek apakah data pemain sudah ada dalam database atau belum. Jika sudah, ambil datanya dan lanjut bermain. Jika belum, simpan dulu data pemain baru ke database sebelum lanjut bermain.
 3. Game dimulai! Pemain diminta untuk menginput angka antara 1 sampai 1000.
    - Jika tebakannya salah, game akan terus berlangsung. Jumlah usaha menebak akan dihitung dan terus bertambah seiring tebakannya belum benar.
