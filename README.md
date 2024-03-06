@@ -1,4 +1,4 @@
-![Cover]()
+![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/Cover_5.jpg)
 
 # Game Tebak Angka Rahasia
 
