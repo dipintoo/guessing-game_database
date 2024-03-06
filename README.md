@@ -4,7 +4,7 @@ Kita akan membuat game tebak angka antara 1 hingga 1000. Logic game ditulis dala
 
 ## Algoritma
 
-1. Game meminta pemain untuk menginput _username_.
+1. Game meminta pemain untuk menginput **username**.
 2. Game akan mengecek apakah data pemain sudah ada dalam database atau belum. Jika sudah, ambil datanya dan lanjut bermain. Jika belum, simpan dulu data pemain baru ke database sebelum lanjut bermain.
 4. Game menampilkan pesan selamat datang untuk pemain dan game dimulai!
 
