@@ -1,6 +1,6 @@
 ![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/Cover.jpg)
 
-
+  
 Kita akan membuat game tebak angka antara 1 hingga 1000. Logic game ditulis dalam script bash dan data disimpan dalam database postgreSQL.
 
 ## Algoritma
