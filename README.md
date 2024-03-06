@@ -1,14 +1,16 @@
 ![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/Cover.jpg)
 
-  
-Kita akan membuat game tebak angka antara 1 hingga 1000. Logic game ditulis dalam script bash dan data disimpan dalam database postgreSQL.
+## Goals
+
+Membuat game tebak angka rahasia antara 1 hingga 1000. Game mampu mengenali apakah yang bermain adalah pemain lama atau pemain baru berdasarkan username-nya. Game akan menampilkan riwayat bermain terbaik jika dia pemain lama dan menyimpan username bagi pemain baru. Data akan terus diperbaharui setiap kali permainan baru dimulai.  
+
+Logic game ditulis dalam script bash dan data disimpan dalam database postgreSQL.
 
 ## Algoritma
 
 1. Game meminta pemain untuk menginput **username**.
-2. Game akan mengecek apakah data pemain sudah ada dalam database atau belum. Jika sudah, ambil datanya dan lanjut bermain.
-   Jika belum, simpan dulu data pemain baru ke database sebelum lanjut bermain.
-4. Game menampilkan pesan selamat datang untuk pemain dan game dimulai!
+2. Game akan mengecek apakah data pemain sudah ada dalam database atau belum. Jika sudah, ambil datanya dan lanjut bermain. Jika belum, simpan dulu data pemain baru ke database sebelum lanjut bermain.
+5. Game menampilkan pesan selamat datang untuk pemain dan game dimulai!
 
    - Pemain diminta untuk menginput tebakan berupa angka antara 1 sampai 1000.
    - Jika tebakannya salah, game akan terus berlangsung. Jumlah usaha menebak akan dihitung dan terus bertambah seiring tebakannya belum benar.
@@ -16,4 +18,4 @@ Kita akan membuat game tebak angka antara 1 hingga 1000. Logic game ditulis dala
    - Yes, pemain berhasil menebak angkanya! Perhitungan usaha menebak angka pemain selesai.
 6. Data riwayat (username, frekuensi bermain, dan jumlah usaha menebak terbaik) akan disimpan di dalam database.
 7. Game akan memberikan selamat atas keberhasilan pemain menebak angka rahasianya 🏆.
-8. Jika suatu saat ingin bermain lagi, pemain sudah dikenali oleh database dan menampilkan riwayat permainan terbaiknya.
+8. Jika suatu saat ingin bermain lagi, pemain sudah dikenali oleh database dan menampilkan riwayat terbaiknya.
