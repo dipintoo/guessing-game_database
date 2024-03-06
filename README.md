@@ -6,7 +6,13 @@ Membuat game tebak angka rahasia antara 1 hingga 1000. Game mampu mengenali apak
 
 Logic game ditulis dalam script bash dan data disimpan dalam database postgreSQL.
 
-## Algoritma
+## Alur Kerja
+
+### Database
+
+Membuat tabel-tabel untuk menampung data games dan pemain serta membuat relasi tabel.
+
+### Algoritma Bash Script
 
 1. Game meminta pemain untuk menginput **username**.
 2. Game akan mengecek apakah data pemain sudah ada dalam database atau belum. Jika sudah, ambil datanya dan lanjut bermain. Jika belum, simpan dulu data pemain baru ke database sebelum lanjut bermain.
