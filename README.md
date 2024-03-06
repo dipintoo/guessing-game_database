@@ -1,4 +1,4 @@
-![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/Cover.jpg)
+![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/img/Cover_5.jpg)
 
 ## Goals
 
@@ -10,7 +10,9 @@ Logic game ditulis dalam script bash dan data disimpan dalam database postgreSQL
 
 ### Database
 
-Membuat tabel-tabel untuk menampung data games dan pemain serta membuat relasi tabel.
+Membuat tabel `games` dan `players` serta membuat relasinya.
+
+![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/img/Database%20Design.png)
 
 ### Algoritma Bash Script
 
