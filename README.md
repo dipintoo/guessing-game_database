@@ -28,6 +28,8 @@ Membuat [database](https://github.com/dipintoo/guessing-game_database/blob/main/
 7. Game akan memberikan selamat atas keberhasilan pemain menebak angka rahasianya 🏆.
 8. Jika suatu saat ingin bermain lagi, pemain sudah dikenali oleh database dan menampilkan riwayat terbaiknya.
 
+## Sumber
+
 freeCodeCamp. (2024). Relational Database. Diakses dari https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game
 
 
