@@ -14,7 +14,7 @@ Membuat [database](https://github.com/dipintoo/guessing-game_database/blob/main/
 
 ![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/img/Database%20Design.png)
 
-### [Algoritma Bash Script]https://github.com/dipintoo/guessing-game_database/blob/main/number_guess.sh()
+### [Algoritma Bash Script](https://github.com/dipintoo/guessing-game_database/blob/main/number_guess.sh)
 
 1. Game meminta pemain untuk menginput **username**.
 2. Game akan mengecek apakah data pemain sudah ada dalam database atau belum. Jika sudah, ambil datanya dan lanjut bermain. Jika belum, simpan dulu data pemain baru ke database sebelum lanjut bermain.
