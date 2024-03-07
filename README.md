@@ -10,7 +10,7 @@ Logic game ditulis dalam script bash dan data disimpan dalam database postgreSQL
 
 ### Database
 
-Membuat tabel `games` dan `players` serta membuat relasinya.
+Membuat [database](https://github.com/dipintoo/guessing-game_database/blob/main/number_guess.sql) yang terdiri dari tabel `games` dan `players` serta membuat relasinya.
 
 ![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/img/Database%20Design.png)
 
@@ -27,6 +27,8 @@ Membuat tabel `games` dan `players` serta membuat relasinya.
 6. Data riwayat (username, frekuensi bermain, dan jumlah usaha menebak terbaik) akan disimpan di dalam database.
 7. Game akan memberikan selamat atas keberhasilan pemain menebak angka rahasianya 🏆.
 8. Jika suatu saat ingin bermain lagi, pemain sudah dikenali oleh database dan menampilkan riwayat terbaiknya.
+
+freeCodeCamp. (2024). Relational Database. Diakses dari https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game
 
 
 [**_<< Previous Project - Universe Database_**](https://github.com/dipintoo/universe_database)
