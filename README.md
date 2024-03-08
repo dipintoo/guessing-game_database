@@ -10,7 +10,7 @@ Logic game ditulis dalam script bash dan data disimpan dalam database postgreSQL
 
 ### Database
 
-Membuat [database](https://github.com/dipintoo/guessing-game_database/blob/main/number_guess.sql) yang terdiri dari tabel `games` dan `players` serta membuat relasinya.
+Membuat database [number_guess](https://github.com/dipintoo/guessing-game_database/blob/main/number_guess.sql) yang terdiri dari tabel `games` dan `players` serta membuat relasinya.
 
 ![Cover](https://github.com/dipintoo/guessing-game_database/blob/main/img/Database%20Design.png)
 
